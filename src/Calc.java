@@ -1,5 +1,5 @@
 public class Calc {
-    int add(int a, int b){
-        return a+b;
+    int add(int a, int c){
+        return a+c;
     }
 }
